@@ -1,85 +1,47 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Sowndhar - Full Stack Developer</title>
-  <style>
-    body {
-      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-      background: #f4f4f9;
-      color: #333;
-      padding: 2rem;
-      max-width: 800px;
-      margin: auto;
-    }
+# 👋 Hi, I'm **Sowndhar**
 
-    h1 {
-      font-size: 2.5rem;
-      color: #2c3e50;
-    }
+🎓 A passionate **Full Stack Web Developer** skilled in building web applications using modern technologies.
 
-    h2 {
-      color: #2980b9;
-      margin-top: 2rem;
-    }
+---
 
-    .section {
-      background: #fff;
-      padding: 1.5rem;
-      border-radius: 12px;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.05);
-      margin-top: 1.5rem;
-    }
+## 🚀 Tech Stack
 
-    ul {
-      list-style: none;
-      padding: 0;
-    }
+**💻 Languages**  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-    ul li::before {
-      content: "🚀 ";
-      margin-right: 0.5rem;
-    }
+**🖥️ Frontend**  
+![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-    a {
-      color: #2980b9;
-      text-decoration: none;
-    }
+**🛠️ Backend**  
+![Java](https://img.shields.io/badge/Java-Servlets/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
+![JDBC](https://img.shields.io/badge/JDBC-Database-003B57?style=for-the-badge&logoColor=white)
 
-    a:hover {
-      text-decoration: underline;
-    }
+**🗄️ Database**  
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-    .emoji {
-      font-size: 1.5rem;
-      margin-right: 0.5rem;
-    }
-  </style>
-</head>
-<body>
+**🔧 Tools & Platforms**  
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 
-  <h1>👋 Hi, I'm <strong>Sowndhar</strong></h1>
-  <p>🎓 A passionate Full Stack Developer skilled in building modern, responsive web applications.</p>
+---
 
-  <div class="section">
-    <h2>🚀 Tech Stack</h2>
-    <ul>
-      <li><strong>Languages:</strong> Java, JavaScript, SQL, HTML, CSS</li>
-      <li><strong>Frontend:</strong> React.js, HTML5, CSS3, JavaScript (ES6+)</li>
-      <li><strong>Backend:</strong> Java (Servlets, JSP), JDBC</li>
-      <li><strong>Database:</strong> MySQL</li>
-      <li><strong>Tools & Platforms:</strong> Linux, Git & GitHub, VS Code, IntelliJ IDEA</li>
-    </ul>
-  </div>
+## 📫 Contact Me
 
-  <div class="section">
-    <h2>📫 Contact Me</h2>
-    <ul>
-      <li><strong>Email:</strong> <a href="sowndharsowndhar888@gmail.com">sowndharsowndhar888@gmail.com</a></li>
-      <li><strong>GitHub:</strong> <a href="https://github.com/JackSowndhar" target="_blank">github.com/JackSowndhar</a></li>
-    </ul>
-  </div>
+- 📧 **Email:** [sowndharsowndhar888@gmail.com](mailto:sowndharsowndhar888@gmail.com)  
+- 📱 **Contact:** 8300437618  
+- 💼 **LinkedIn:** [linkedin.com/in/Sowndhar Murugesan]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sowndhar-murugesan-386846344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+- 🧑‍💻 **GitHub:** [github.com/JackSowndhar](https://github.com/JackSowndhar)
 
-</body>
-</html>
+---
+
+⭐️ *Thanks for visiting my profile! I'm always open to collaborating on exciting projects.*
