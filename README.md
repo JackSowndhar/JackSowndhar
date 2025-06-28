@@ -37,10 +37,10 @@
 
 ## 📫 Contact Me
 
-- 📧 **Email:** [sowndharsowndhar888@gmail.com](mailto:sowndharsowndhar888@gmail.com)  
-- 📱 **Contact:** +91 8300437618  
-- 💼 **LinkedIn:** [linkedin.com/in/Sowndhar Murugesan]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sowndhar-murugesan-386846344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
-- 🧑‍💻 **GitHub:** [github.com/JackSowndhar](https://github.com/JackSowndhar)
+- 📧 **Email :** [sowndharsowndhar888@gmail.com](mailto:sowndharsowndhar888@gmail.com)  
+- 📱 **Contact :** +91 8300437618  
+- 💼 **LinkedIn :** [linkedin.com/in/Sowndhar Murugesan]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sowndhar-murugesan-386846344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+- 🧑‍💻 **GitHub :** [github.com/JackSowndhar](https://github.com/JackSowndhar)
 
 ---
 
