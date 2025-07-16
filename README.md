@@ -26,7 +26,6 @@
 **🗄️ Database**  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MONGO DB](https://img.shields.io/badge/MONGO_DB-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![NODE](https://img.shields.io/badge/NODE_JS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 **🔧 Tools & Platforms**  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
