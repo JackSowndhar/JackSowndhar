@@ -1,33 +1,34 @@
-# 👋 Hi, I'm **Sowndhar**
+# 👋 Hi, I'm *Sowndhar*
 
-🎓 A passionate **Full Stack Web Developer** skilled in building web applications using modern technologies.
+🎓 A passionate *Full Stack Web Developer* skilled in building web applications using modern technologies.
 
 ---
 
 ## 🚀 Tech Stack
 
-**💻 Languages**  
+*💻 Languages*  
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**🖥️ Frontend**  
+*🖥 Frontend*  
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![BOOTSTRAP](https://img.shields.io/badge/MONGO_DB-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-**🛠️ Backend**  
+*🛠 Backend*  
 ![Java](https://img.shields.io/badge/Java-Servlets/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-Database-003B57?style=for-the-badge&logoColor=white)
 
-**🗄️ Database**  
+*🗄 Database*  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MONGO DB](https://img.shields.io/badge/MONGO_DB-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![NODE](https://img.shields.io/badge/NODE_JS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
-**🔧 Tools & Platforms**  
+*🔧 Tools & Platforms*  
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -39,11 +40,11 @@
 
 ## 📫 Contact Me
 
-- 📧 **Email :** [sowndharsowndhar888@gmail.com](mailto:sowndharsowndhar888@gmail.com)  
-- 📱 **Contact :** +91 8300437618  
-- 💼 **LinkedIn :** [linkedin.com/in/Sowndhar Murugesan]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sowndhar-murugesan-386846344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
-- 🧑‍💻 **GitHub :** [github.com/JackSowndhar](https://github.com/JackSowndhar)
+- 📧 *Email :* [sowndharsowndhar888@gmail.com](mailto:sowndharsowndhar888@gmail.com)  
+- 📱 *Contact :* +91 8300437618  
+- 💼 *LinkedIn :* [linkedin.com/in/Sowndhar Murugesan]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/sowndhar-murugesan-386846344?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))  
+- 🧑‍💻 *GitHub :* [github.com/JackSowndhar](https://github.com/JackSowndhar)
 
 ---
 
-⭐️ *Thanks for visiting my profile! I'm always open to collaborating on exciting projects.*
+⭐ Thanks for visiting my profile! I'm always open to collaborating on exciting projects.
