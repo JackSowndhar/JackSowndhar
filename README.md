@@ -26,8 +26,8 @@
 
 *🗄 Database*  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MONGO DB](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![FIREBASE](https://img.shields.io/badge/NODE_JS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![MONGO DB](https://img.shields.io/badge/MONGO_DB-181717?style=for-the-badge&logo=github&logoColor=white)
+![FIREBASE](https://img.shields.io/badge/FIREBASE-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 
 *🔧 Tools & Platforms*  
