@@ -48,6 +48,7 @@
 - 📜 *Portfoio :*[My Portfolio](https://sowndhar-portfolio.netlify.app/)
 - 💼 *LinkedIn :* [linkedin.com/in/Sowndhar Murugesan](www.linkedin.com/in/sowndhar-murugesan)  
 - 🧑‍💻 *GitHub :* [github.com/JackSowndhar](https://github.com/JackSowndhar)
+- 🔍 *Naukri :* [Naukri.com/Sowndhar](https://www.naukri.com/mnjuser/profile)
 
 ---
 
