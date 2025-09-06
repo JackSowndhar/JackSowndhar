@@ -43,7 +43,7 @@
 
 ## 📫 Contact Me
 
-- 📧 *Email :* [sowndharsowndhar888@gmail.com](mailto:sowndharsowndhar888@gmail.com)  
+- 📧 *Email :* [msowndhar552@gmail.com](mailto:msowndhar552@gmail.com)  
 - 📱 *Contact :* +91 8300437618
 - 📜 *Portfoio :*[My Portfolio](https://sowndhar-portfolio.netlify.app/)
 - 💼 *LinkedIn :* [linkedin.com/in/Sowndhar Murugesan](www.linkedin.com/in/sowndhar-murugesan)  
