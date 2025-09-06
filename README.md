@@ -17,7 +17,7 @@
 *🛠 Backend*  
 ![Java](https://img.shields.io/badge/Java-Servlets/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-Database-003B57?style=for-the-badge&logoColor=white)
-![SpringBoot](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black))
+![SpringBoot](https://img.shields.io/badge/SpringBoot-F7DF1E?style=for-the-badge&logo=SpringBoot&logoColor=black))
 ![NODE](https://img.shields.io/badge/NODE_JS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 *🗄 Database*  
