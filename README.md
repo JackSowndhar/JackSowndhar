@@ -6,13 +6,6 @@
 
 ## 🚀 Tech Stack
 
-*💻 Languages*  
-![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![NODE](https://img.shields.io/badge/NODE_JS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
 *🖥 Frontend*  
 ![React](https://img.shields.io/badge/React.js-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Redux](https://img.shields.io/badge/Redux-181717?style=for-the-badge&logo=github&logoColor=white)
@@ -24,6 +17,8 @@
 *🛠 Backend*  
 ![Java](https://img.shields.io/badge/Java-Servlets/JSP-007396?style=for-the-badge&logo=java&logoColor=white)
 ![JDBC](https://img.shields.io/badge/JDBC-Database-003B57?style=for-the-badge&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring Boot-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![NODE](https://img.shields.io/badge/NODE_JS-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 
 *🗄 Database*  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
