@@ -19,7 +19,7 @@
 ![JDBC](https://img.shields.io/badge/JDBC-Database-003B57?style=for-the-badge&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-F7DF1E?style=for-the-badge&logo=SpringBoot&logoColor=black)
 ![NODE](https://img.shields.io/badge/NODE_JS-E34F26?style=for-the-badge&Color=white)
-![Express](https://img.shields.io/badge/00739?style=for-the-badge&logo=express&logoColor=black)
+![Express](https://img.shields.io/badge/Express-4479A1?style=for-the-badge&logo=Express&logoColor=white)
 
 *🗄 Database*  
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
